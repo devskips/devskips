@@ -20,5 +20,5 @@ Hello! I am SkipS. I have experience in various technologies.
 <br />
 
 <a href="https://github.com/devskips">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=devsskipss&show_icons=true&theme=radical&line_height=27" alt="devskips" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=devskips&show_icons=true&theme=radical&line_height=27" alt="devskips" />
 </a>
