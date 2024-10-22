@@ -1,4 +1,4 @@
-Hello! I am SkipS. I have experience in various technologies.
+Hello! I am SkipS, a developer and member of the [vortexnetwork](https://site.vortexnetwork.online) team. I have experience in various technologies.
 
 ### Languages
 
