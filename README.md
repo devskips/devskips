@@ -1,6 +1,6 @@
 Hello! I am SkipS, a developer. I have experience in various technologies.
 
-### Languages
+### LANGUAGES
 
 [![Pawn](https://img.shields.io/badge/Pawn-dbb284?style=for-the-badge&logo=pawn&logoColor=white)](https://github.com/pawn-lang)
 
